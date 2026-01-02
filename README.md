@@ -2,9 +2,9 @@
 
 ## Efficient V2
 ### files includes:
-###  efficientnet_v2.py
-###  eval_effficientnet_v2.py
-###  isic_pauc.py
+###  efficientnet_v2.py (訓練用)
+###  eval_effficientnet_v2.py (驗證用)
+###  isic_pauc.py (驗證用撘配上方驗證一起用)
 
 ## DINO V2
 ### files include:
