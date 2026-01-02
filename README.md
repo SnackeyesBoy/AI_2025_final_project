@@ -1,5 +1,9 @@
 # AI_2025_final_project
 #
+## Kaggle 比賽
+### 官網 : https://www.kaggle.com/competitions/isic-2024-challenge/overview
+### 資料集 : https://www.kaggle.com/competitions/isic-2024-challenge/data
+#
 ## Efficient V2
 ### 架構
 ![image](picture/efficientnet.png)
