@@ -34,8 +34,8 @@
 #
 ## Result
 ### Environment
-### 環境預設建議使用 Anaconda 做部屬，方便管理!
-### 環境架設依照個模型所需import 的套件即可使用
+#### 環境預設建議使用 Anaconda 做部屬，方便管理!
+#### 環境架設依照個模型所需import 的套件即可使用
 ![image](picture/environment.jpg)
 
 ### Confusion Matrix
