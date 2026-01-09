@@ -4,6 +4,8 @@
 #### 官網 : https://www.kaggle.com/competitions/isic-2024-challenge/overview
 #### 資料集 : https://www.kaggle.com/competitions/isic-2024-challenge/data
 #
+## 模型介紹
+#
 ## Efficient V2
 ### 架構
 ![image](picture/efficientnet.png)
@@ -32,6 +34,8 @@
 #
 ## Result
 ### Environment
+### 環境預設建議使用 Anaconda 做部屬，方便管理!
+### 環境架設依照個模型所需import 的套件即可使用
 ![image](picture/environment.jpg)
 
 ### Confusion Matrix
